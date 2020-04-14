@@ -139,7 +139,7 @@ async function updateReplyCount() {
 
         // Update the reply button text
         if ($(this).html() !== newHtml) {
-            $(this).html('<a href="#"><strong>' + numReplies + (numReplies === 1 ? ' reply' : ' replies') + '</strong></a> ' + prevReplyDate);
+            $(this).html(newHtml);
         }
     });
 }
