@@ -33,5 +33,5 @@ If you would like to contribute to this repository, please...
 
 1. Fork
 2. Make changes
-  - Go ahead and add yourself to the AUTHORS.md
+   - Go ahead and add yourself to the AUTHORS.md
 3. Create a pull request!
