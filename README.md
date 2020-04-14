@@ -12,7 +12,7 @@ A script that tries to make Webex Teams better!
 	This script may work on other browsers that support Tampermonkey as well, however other browsers will not be supported.
 
 2. Install from one of the following options
-   - [Install from Github](https://raw.githubusercontent.com/nottheswimmer/webex-teams-plus/latest/github-code-colors.user.js)
+   - [Install from Github](https://github.com/nottheswimmer/webex-teams-plus/raw/latest/webex-teams-plus.user.js)
    - [Install from Greasyfork](https://greasyfork.org/en/scripts/400792-webex-teams-plus)
    - [Install from OpenUserJS](https://openuserjs.org/scripts/nottheswimmer/Webex_Teams_Plus)
    
