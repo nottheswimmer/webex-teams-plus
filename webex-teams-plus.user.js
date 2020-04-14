@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Webex Teams Plus
 // @version      0.1.0
-// @namespace    https://github.com/nottheswimmer
+// @namespace    https://github.com/nottheswimmer/webex-teams-plus
 // @match        https://teams.webex.com/*
 // @license      MIT
 // @author       Michael Phelps
