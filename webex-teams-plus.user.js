@@ -62,12 +62,13 @@ const styling = `
     position: absolute;
     height: 100%;
     width: max(calc(40% - 16px), 422px);
-    left: calc(100% - max(calc(40% - 32px), 422px));
+    left: calc(100% - max(calc(40% - 48px), 422px));
 }
 
 .activity-threading-section {
     height: 100%;
     max-height: 100%;
+    margin: 0 !important;
 }
 
 .activity-threading-list-section {

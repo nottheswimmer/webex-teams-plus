@@ -6,5 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Fix it so the scrollbar on main chat area is click-and-draggable when the threading sidebar is open.
+
 ## [0.1.0] - 2020-04-14
 - Initial release
